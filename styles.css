@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.img1{
+    
+    padding: 10%;
+    text-align: center;
+}
+.img1 img{
+    height: 200px;
+    width: 300px;
+}
+.Main-Container{
+    padding: 40px;
+    background-color: #f5f5f5;
+    height: 400px;
+    width: 800px;
+    
+}
+.test1,.test2{
+    background-color: #ffffff;
+    position: relative;
+    height: 70px;
+    width: 700px;
+    margin-top: 20px;
+    
+}
+.author{
+    position: absolute;
+   bottom:1px;
+   right: 10px;
+   font-style:italic ;
+
+}
+.mr{
+   display: flex;
+   align-items: center;
+    padding: 10px;
+}
